@@ -98,7 +98,9 @@ You can go throught the `edge_insets.dart` file to see the kind of padding you n
 
 ## Links
 
-For seamless operation and flow, kindly change the android version to Android 12.0
+For seamless operation and flow on appetize, kindly change the android version to Android 12.0
 
 => Appetize URL: https://appetize.io/app/jve6fs5igbty7fe5o3n6l66bju?device=pixel4&osVersion=11.0&scale=75
+
+=> APK file: https://drive.google.com/drive/folders/1AJKAnYZn6HCVz0kHlbbWX020_TifV5Zu?usp=share_link
 
