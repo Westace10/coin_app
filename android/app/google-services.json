@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "269820689729",
+    "project_id": "coin-app-20189",
+    "storage_bucket": "coin-app-20189.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269820689729:android:7424e30cdfec2c52ff75c0",
+        "android_client_info": {
+          "package_name": "com.example.coin_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "269820689729-6ssudh9bld8mnd5anq7f7l673irp1b04.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3EejO0zNlJeeRdiRbc2pKFyqWB8efrlw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "269820689729-6ssudh9bld8mnd5anq7f7l673irp1b04.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
