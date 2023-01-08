@@ -1,7 +1,11 @@
 # Coin App - A Wallet app
 
 ## Description
-Coin App is a mobile application developed to connect friends and family status feeds and information. It also has a wallet functionality which allows saving cash, sharing cash and also access to a crypto wallet from Coinbase. 
+Coin App is a mobile application developed to connect friends and family status feeds and information. XATA Serverless was used as the database and It also has a wallet functionality which allows saving cash, sharing cash and also access to connect to a Coinbase wallet from the app. 
+
+It comprises user's registration with a valid email address, an OTP is generated to verify a new user. Some other details such as name, country and zip code are also needed to complete registration. XATA Serverless Data Platform was implemented to store new users data, 4 out of five methods were used to fetch, update, get and query data from the Database. 
+
+A basic template table provided after creating a database was also used to supply status feeds page for users. Users can also create a post which is saved on the database.
 
 ## Repo structure
 This repository makes use of [stacked](https://pub.dev/packages/stacked) and it's architecture, which is an MVVM pattern.
