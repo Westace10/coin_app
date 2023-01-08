@@ -96,3 +96,7 @@ According to the text style, it is called by `kEdgeInsetsHorizontalNormal` for h
 
 You can go throught the `edge_insets.dart` file to see the kind of padding you need.
 
+## Links
+
+=> Appetize URL: https://appetize.io/app/jve6fs5igbty7fe5o3n6l66bju?device=pixel4&osVersion=11.0&scale=75
+
